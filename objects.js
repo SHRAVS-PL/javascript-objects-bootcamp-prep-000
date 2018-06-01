@@ -8,6 +8,6 @@ return playlist
 
 function removeFromPlaylist(playlist,artistName) {
  
-delete playlist.artistName
+delete playlist.artistName;
  playlist
 }
