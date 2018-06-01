@@ -8,8 +8,6 @@ return playlist
 
 function removeFromPlaylist(playlist,artistName) {
  
- 
 delete playlist.artistName
-
 console.log(playlist)
 }
